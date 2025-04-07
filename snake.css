@@ -1,0 +1,37 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #777777;
+    color: white;
+}
+
+canvas {
+    border: 2px solid white;
+    background-color: #222;
+}
+
+input {
+    padding: 6px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+button {
+    padding: 6px 12px;
+    margin: 5px;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0e0e0e;
+    color: white;
+}
+.krasaIevade{
+    max-width: 565px;
+    width: 80%;
+}
